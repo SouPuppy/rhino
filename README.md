@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="Rhino: A language that's all about type [png image from pngtree.com]"
+    <img alt="Rhino: A language that's all about type"
          src="./images/logo.png"
          width="50%">
   </picture>
